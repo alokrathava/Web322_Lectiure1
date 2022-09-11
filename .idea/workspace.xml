@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b07c160f-823c-4090-b206-06fe2c3e6c39" name="Changes" comment="" />
+    <list default="true" id="b07c160f-823c-4090-b206-06fe2c3e6c39" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +18,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EN50NQR6S3O8cSJL7L0JxSuZeK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +58,8 @@
       <workItem from="1662423166718" duration="3000" />
       <workItem from="1662423175756" duration="735000" />
       <workItem from="1662424243177" duration="5064000" />
-      <workItem from="1662655480743" duration="3895000" />
+      <workItem from="1662655480743" duration="4945000" />
+      <workItem from="1662818453466" duration="2672000" />
     </task>
     <servers />
   </component>
