@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b07c160f-823c-4090-b206-06fe2c3e6c39" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +59,23 @@
       <workItem from="1662424243177" duration="5064000" />
       <workItem from="1662655480743" duration="4945000" />
       <workItem from="1662818453466" duration="2672000" />
+      <workItem from="1662937170913" duration="373000" />
     </task>
+    <task id="LOCAL-00001" summary="Ignored Files">
+      <created>1662937444634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662937444634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ignored Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignored Files" />
   </component>
 </project>
